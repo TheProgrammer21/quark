@@ -1,0 +1,24 @@
+{
+  "name": "quark",
+  "version": "1.0.0",
+  "description": "A discord moderation bot with android configuration app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheProgrammer21/quark.git"
+  },
+  "keywords": [
+    "discord",
+    "moderation",
+    "bot"
+  ],
+  "author": "Optix, TheProgrammer21",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TheProgrammer21/quark/issues"
+  },
+  "homepage": "https://github.com/TheProgrammer21/quark#readme"
+}
