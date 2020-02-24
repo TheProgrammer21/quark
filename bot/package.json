@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/TheProgrammer21/quark/issues"
   },
-  "homepage": "https://github.com/TheProgrammer21/quark#readme"
+  "homepage": "https://github.com/TheProgrammer21/quark#readme",
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  }
 }
